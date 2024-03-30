@@ -1,4 +1,4 @@
-package com.mkao.diceroller
+package com.mkao.skysync
 
 import org.junit.Test
 

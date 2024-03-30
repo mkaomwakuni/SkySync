@@ -1,4 +1,4 @@
-package com.mkao.diceroller
+package com.mkao.skysync
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.mkao.diceroller", appContext.packageName)
+        assertEquals("com.mkao.skysync", appContext.packageName)
     }
 }
