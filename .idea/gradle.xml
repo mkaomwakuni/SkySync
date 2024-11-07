@@ -10,6 +10,13 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app/app" />
+            <option value="$PROJECT_DIR$/app/buildSrc" />
+            <option value="$PROJECT_DIR$/app/data" />
+            <option value="$PROJECT_DIR$/app/domain" />
+            <option value="$PROJECT_DIR$/app/gradle" />
+            <option value="$PROJECT_DIR$/app/presentation" />
+            <option value="$PROJECT_DIR$/app/spotless" />
           </set>
         </option>
         <option name="resolveExternalAnnotations" value="false" />
