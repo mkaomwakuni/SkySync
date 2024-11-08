@@ -11,7 +11,7 @@ object Configurations {
 
 object ClassPaths {
     const val gradlePlugin = "com.android.tools.build:gradle:8.1.2"
-    const val kotlinPlugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.10"
+    const val kotlinPlugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:1.9.25"
 }
 
 object Compose {
@@ -46,7 +46,7 @@ object Core {
 
 object Libs {
     object Kotlin {
-        const val stdlib = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.20"
+        const val stdlib = "org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.9.25"
     }
 
     object Coroutines {
