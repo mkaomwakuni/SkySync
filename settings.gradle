@@ -14,10 +14,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "SkySync"
 include ':app'
-include ':app:buildSrc'
-include ':app:data'
-include ':app:presentation'
-include ':app:domain'
-include ':app:app'
-include ':app:gradle'
-include ':app:spotless'
+include ':data'
+include ':presentation'
+include ':domain'

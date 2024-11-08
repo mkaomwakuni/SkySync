@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SkySync">
         <activity
-            android:name=".main.MainActivity"
+            android:name=".app.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
