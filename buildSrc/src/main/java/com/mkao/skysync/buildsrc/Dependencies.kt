@@ -27,7 +27,7 @@ object Compose {
     const val uiTest = "androidx.compose.ui:ui-test-junit4:$composeVersion"
     const val activityCompose = "androidx.activity:activity-compose:1.8.1"
     const val navigationCompose = "androidx.navigation:navigation-compose:2.7.5"
-    const val hiltNavigation = "androidx.hilt:hilt-navigation-compose:1.1.0"
+    const val hiltNavigation = "androidx.hilt:hilt-navigation-compose:1.2.0"
 }
 
 object Tests {
