@@ -3,6 +3,7 @@ package com.mkao.skysync.data.di
 import com.mkao.skysync.data.city.CityDao
 import com.mkao.skysync.data.city.DummyCityDao
 import com.mkao.skysync.data.forecast.DummyForecastDao
+import com.mkao.skysync.data.forecast.ForecastDao
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
