@@ -32,7 +32,7 @@ object Compose {
 
 object Tests {
     private const val junitVersion = "4.13.2"
-    private const val junitKtx = "1.1.5"
+    private const val junitKtx = "1.2.1"
 
     const val junit = "junit:junit:$junitVersion"
     const val junitKotlin = "androidx.test.ext:junit-ktx:$junitKtx"
