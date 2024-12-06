@@ -61,7 +61,7 @@ object Libs {
     }
 
     object Lottie {
-        const val lottie = "com.airbnb.android:lottie-compose:6.1.0"
+        const val lottie = "com.airbnb.android:lottie-compose:6.6.1"
     }
 
     object Accompanist {
