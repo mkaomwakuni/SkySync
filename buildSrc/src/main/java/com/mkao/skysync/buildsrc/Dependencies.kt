@@ -15,7 +15,7 @@ object ClassPaths {
 }
 
 object Compose {
-    const val composeVersion = "1.5.4"
+    const val composeVersion = "1.7.6"
 
     const val animation = "androidx.compose.animation:animation:$composeVersion"
     const val iconsExtended = "androidx.compose.material:material-icons-extended:$composeVersion"
